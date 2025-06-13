@@ -1,2 +1,0 @@
-# DiscordUpdater
-Discord client updater
